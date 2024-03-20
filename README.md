@@ -12,4 +12,6 @@
 ![javascript][JAVASCRIPT__BADGE]
 </h1>
 
+<p align="center" style="font-weight: bold;">Material da aula na live da desenvolvedora Fernanda Kipper: https://www.youtube.com/live/O26fDEnAukY?si=8OjYdSyhlAuNUSa_</p>
+
 
